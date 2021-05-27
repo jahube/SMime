@@ -1,0 +1,5 @@
+MapiSmimeToolkit_1.0.0.2
+
+https://github.com/andreighita/mapi-smime-toolkit
+
+https://github.com/andreighita/mapi-smime-toolkit/releases/tag/1.0.0.2
